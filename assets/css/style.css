@@ -17,7 +17,7 @@ body {
     justify-content: space-between;
     align-items: center;
 }
- 
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,7 +40,7 @@ body {
 }
 
 .header nav ul li {
-    
+
     display: inline-block;
     margin-left: 25px;
 }
@@ -193,7 +193,7 @@ p {
 }
 
 .footer {
-    
+
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
