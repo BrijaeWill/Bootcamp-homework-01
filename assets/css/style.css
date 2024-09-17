@@ -17,14 +17,14 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-
+ 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 .header div {
@@ -193,12 +193,13 @@ p {
 }
 
 .footer {
-    padding: 30px;
+    
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
 .footer h2 {
+    padding: 30px;
     font-size: 20px;
 }
